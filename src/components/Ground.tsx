@@ -7,7 +7,7 @@ const Ground = () => {
 		// PI = 180 degrees
 		// TODO: change to Math.PI / 2 once player get camera
 		return {
-			rotation: [-Math.PI / 4, 0, 0],
+			rotation: [-Math.PI / 2, 0, 0],
 			position: [0, 0, 0],
 		};
 	});
